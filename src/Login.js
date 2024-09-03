@@ -13,23 +13,23 @@ function Login({ onLogin }) {
 
   const list = [
     {
-      username: "1",
-      password: "1",
+      username: "Jack",
+      password: "Jack123",
       role: roles.user,
     },
     {
-      username: "2",
-      password: "2",
+      username: "Adam",
+      password: "Adam123",
       role: roles.user,
     },
     {
-      username: "3",
-      password: "3",
+      username: "Jackie",
+      password: "Jackie123",
       role: roles.user,
     },
     {
       username: "admin",
-      password: "admin",
+      password: "admin123",
       role: roles.admin,
     },
   ];
